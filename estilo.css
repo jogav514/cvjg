@@ -94,7 +94,7 @@
  .skill .progress.percentage {
      transition: width 2s ease;
      width: 0;
-     background-color: #F6A737;
+     background-color: yellowgreen;
      animation-name: progress-bar;
      animation-duration: 2s;
  }
